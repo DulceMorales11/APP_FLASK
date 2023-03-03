@@ -1,0 +1,13 @@
+th,td{
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+body{
+    background-image: url(portada.jpg);
+    background-position: center;
+    
+    background-attachment: fixed;
+    height: 300px;
+}
